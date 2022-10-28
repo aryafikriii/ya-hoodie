@@ -2,7 +2,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <div id="top"></div>
 
-<h3 align="center">15-Puzzle Solver using Branch and Bound & Brute Force</h3>
+<h3 align="center">YA-HOODIE</h3>
 
   <p align="center">
     YA-HOODIE
